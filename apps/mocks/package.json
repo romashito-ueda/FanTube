@@ -1,0 +1,11 @@
+{
+  "name": "@fantube/mocks",
+  "version": "0.1.0",
+  "private": true,
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "dependencies": {
+    "msw": "^2.4.3",
+    "@fantube/shared": "workspace:*"
+  }
+}
